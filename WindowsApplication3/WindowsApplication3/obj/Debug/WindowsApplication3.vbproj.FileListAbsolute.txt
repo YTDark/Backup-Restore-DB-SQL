@@ -1,0 +1,30 @@
+c:\users\u206114\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+c:\users\u206114\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+c:\users\u206114\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+c:\users\u206114\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+c:\users\u206114\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form1.resources
+c:\users\u206114\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+c:\users\u206114\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+c:\users\u206114\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+c:\users\u206114\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+c:\users\u206114\documents\visual studio 2015\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\جميل\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\جميل\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\جميل\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\جميل\Desktop\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\جميل\Desktop\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\جميل\Desktop\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\جميل\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+C:\Users\جميل\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\جميل\Desktop\المشروع مع القاعدة\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Users\جميل\Desktop\المشروع مع القاعدة\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Users\جميل\Desktop\المشروع مع القاعدة\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Users\جميل\Desktop\المشروع مع القاعدة\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\جميل\Desktop\المشروع مع القاعدة\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\جميل\Desktop\المشروع مع القاعدة\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\جميل\Desktop\المشروع مع القاعدة\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbprojResolveAssemblyReference.cache
+C:\Users\جميل\Desktop\المشروع مع القاعدة\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\جميل\Desktop\المشروع مع القاعدة\WindowsApplication3\WindowsApplication3\obj\Debug\data_ba_rs.Form1.resources
+C:\Users\جميل\Desktop\المشروع مع القاعدة\WindowsApplication3\WindowsApplication3\obj\Debug\data_ba_rs.Resources.resources
+C:\Users\جميل\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\data_ba_rs.Form1.resources
+C:\Users\جميل\Desktop\WindowsApplication3\WindowsApplication3\obj\Debug\data_ba_rs.Resources.resources
